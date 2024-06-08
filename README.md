@@ -32,4 +32,4 @@ A seperate fade loop is done to wipe the rest of the after image over the before
 
 # Creating the Script
 
-The script was created using ChatGPT's 4o model as of 2024-06-06. *[chatgpt_log.html](https://htmlpreview.github.io/?https://github.com/StrongTownsLangley/ScrollingComparison/blob/main/chatgpt_log.html))* is the record of the conversation.
+The script was created using ChatGPT's 4o model as of 2024-06-06. *[chatgpt_log.html](https://htmlpreview.github.io/?https://github.com/StrongTownsLangley/ScrollingComparison/blob/main/chatgpt_log.html)* is the record of the conversation.
